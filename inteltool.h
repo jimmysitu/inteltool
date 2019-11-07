@@ -291,6 +291,7 @@ static inline uint32_t inl(unsigned port)
 #define PCI_DEVICE_ID_INTEL_CORE_7TH_GEN_Y	0x590C /* Kabylake (Mobile) */
 #define PCI_DEVICE_ID_INTEL_CORE_7TH_GEN_U_Q	0x5914 /* Kabylake (Mobile) */
 #define PCI_DEVICE_ID_INTEL_CORE_7TH_GEN_E3	0x5918 /* Kabylake Xeon E3 */
+#define PCI_DEVICE_ID_INTEL_CORE_7TH_GEN_D	0x591f /* Kabylake (Desktop) */
 
 
 /* Intel GPUs */
